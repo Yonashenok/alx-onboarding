@@ -1,0 +1,12 @@
+In the main function
+{
+Read x , y;
+set x to x*x;
+set y to y*y;
+Set sum to x + y;
+Write summation= sum ;
+
+return 0;
+
+
+}
